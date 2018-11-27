@@ -4,3 +4,6 @@
 
 
 # aide mémoire git/terminal/vim
+
+
+>	php -S localhost:2500
