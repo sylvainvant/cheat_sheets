@@ -47,4 +47,33 @@ Liens :
 
 
 
+### 1ÈRE INSTALLATION  
+
+
+Installer GIT:   
+> $ sudo apt install git   
+
+Installer CURL:
+> $ sudo apt install curl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
