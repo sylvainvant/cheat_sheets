@@ -7,14 +7,12 @@
 
 |       commande                  |     Description                                                         |  
 | ------------------------------- |: ---------------------------------------------------------------------: |   
-|      >a                         |  Basculer en mode insertion                                             |       
-|  >A [shift+a]                   |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
-|  >i                             |  Basculer en mode Insertion                                             |       
+>|  a                             |  Basculer en mode insertion                                             |       
+>|  A [shift+a]                   |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
+>|  i                             |  Basculer en mode Insertion                                             |       
 
 
 
-	Basculer en mode Insertion et ajouter en fin de ligne
-i 	Basculer en mode Insertion
 I [shift+i] 	Insérer avant le premier caractère non-blanc de la ligne
 v 	Basculer en mode visuel (sélection)
 V [shift+v] 	Basculer en mode de ligne visuelle (sélection de ligne)
