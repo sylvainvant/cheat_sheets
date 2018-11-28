@@ -20,6 +20,8 @@
 | <echap>  | Entre en mode normal                             |                 |
 | <:>      | Entre en mode commande                           |                 |
 | x        | suprime Le caractère sous le curseur             |                 |
+| dd       | Suprime la ligne sous le curseur                 | delect          |
+| dw       | Suprime le mot sur le curseur                    | delect word     |
 
 
 
