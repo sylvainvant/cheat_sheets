@@ -6,19 +6,19 @@
 
 
 |       commande                  |     Description                                                         |  
-| ------------------------------- | ----------------------------------------------------------------------: |   
+|-------------------------------- | ----------------------------------------------------------------------: |   
 |  a                              |  Basculer en mode insertion                                             |       
 |  A [shift+a]                    |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
 |  i                              |  Basculer en mode Insertion                                             |       
 |	I [shift+i]               |	Insérer avant le premier caractère non-blanc de la ligne            |
 |               v 	          |           Basculer en mode visuel (sélection)                           |
 |   V [shift+v]                   |	Basculer en mode de ligne visuelle (sélection de ligne)             |
-Ctrl+v 	Basculer en mode bloc visuel (sélection de bloc – rectangulaire)
-gv 	Re-sélectionnez la dernière sélection
-o 	Ajouter une nouvelle ligne après la position du curseur et se placer en mode insertion au début de cette nouvelle ligne
-O [shift+o] 	Ajouter une nouvelle ligne avant la position du curseur et se placer en mode insertion au début de cette nouvelle ligne
-J [shift+j] 	Joint la ligne suivante à la fin de la ligne courante
-C [shift+c] 	Basculer en mode remplacement (au lieu d’insertion) pour la ligne courante jusqu’à appui de la touche Esc
+|     Ctrl+v                      | 	Basculer en mode bloc visuel (sélection de bloc – rectangulaire)    |
+|         gv                      |	Re-sélectionnez la dernière sélection                               |  
+|          o                      |Ajouter ligne après le curseur et se placer au début de cette nouvelle ligne |
+|    O [shift+o]                  |Ajouter ligne avant le curseur et se placer en mode insertion au début de cette nouvelle ligne |
+|        J [shift+j] 	          |   Joint la ligne suivante à la fin de la ligne courante                 |
+|       C [shift+c]               |Basculer en mode remplacement (au lieu d’insertion) pour la ligne courante jusqu’à appui de la touche Esc |
 cc 	Supprime le texte de la ligne courante et positionne le curseur au début de cette ligne
 s 	Substitue le caractère et bascule en mode insertion
 S [shift+s] 	Substitue la ligne et bascule en mode insertion
