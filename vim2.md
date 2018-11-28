@@ -10,6 +10,6 @@
 | A        | Entre en mode insertion sur le dernier caractère |                 |
 | i        | Entre en mode insertion au niveau du curseur     | insert          |
 | h        | Se déplacer vers la gauche                       |                 |
-| j        | Se déplacer vers le bas                          |                 |  
+| j        | Se déplacer vers le bas                          |                 |
 
 
