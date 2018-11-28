@@ -80,8 +80,8 @@ Insérer au début du fichier les lignes suivantes :
 >call plug#end()
 
 
- À CHAQUE NOUVEL AJOUT DE PLUGIN, IL FAUDRA METTRE UNE LIGNE QUI
-RESSEMBLE À LA SUIVANTE ENTRE LES 2 PRÉCÉDENTES :
+__ À CHAQUE NOUVEL AJOUT DE PLUGIN, IL FAUDRA METTRE UNE LIGNE QUI
+RESSEMBLE À LA SUIVANTE ENTRE LES 2 PRÉCÉDENTES :__
 
 call plug#begin()
 Plug ‘blablablabla’
