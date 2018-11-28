@@ -10,12 +10,9 @@
 |  a                              |  Basculer en mode insertion                                             |       
 |  A [shift+a]                    |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
 |  i                              |  Basculer en mode Insertion                                             |       
-
-
-
-I [shift+i] 	Insérer avant le premier caractère non-blanc de la ligne
-v 	Basculer en mode visuel (sélection)
-V [shift+v] 	Basculer en mode de ligne visuelle (sélection de ligne)
+|	I [shift+i]               |	Insérer avant le premier caractère non-blanc de la ligne            |
+|               v 	          |           Basculer en mode visuel (sélection)                           |
+|   V [shift+v]                   |	Basculer en mode de ligne visuelle (sélection de ligne)             |
 Ctrl+v 	Basculer en mode bloc visuel (sélection de bloc – rectangulaire)
 gv 	Re-sélectionnez la dernière sélection
 o 	Ajouter une nouvelle ligne après la position du curseur et se placer en mode insertion au début de cette nouvelle ligne
