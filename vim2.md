@@ -103,7 +103,8 @@ Pour mettre à jour les plugins .......**:PlugUpdate**
 Pour supprimer les plugins .......... **:PlugClean**
 Voir le status des plugins ............. **:PlugStatus**
 
-###### Mais encore...
+###### Mais encore...  
+
 Ce qui est sympa avec Vim-plug est que l’on peut mettre des conditions dans les plugins  
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 ici vim-snippets dépends de ultisnips
