@@ -74,7 +74,18 @@ Dans un terminal saisir :
 
 Créer, si pas fait, le fichier [ ~/.vimrc ] ....... $ vim .vimrc
 
+Insérer au début du fichier les lignes suivantes :
 
+>call plug#begin()
+>call plug#end()
+
+
+ À CHAQUE NOUVEL AJOUT DE PLUGIN, IL FAUDRA METTRE UNE LIGNE QUI
+RESSEMBLE À LA SUIVANTE ENTRE LES 2 PRÉCÉDENTES :
+
+call plug#begin()
+Plug ‘blablablabla’
+call plug#end()
 
 
 
