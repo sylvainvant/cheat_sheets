@@ -93,15 +93,15 @@ RDV chez https://vimawesome.com
 
 Chercher un plugin et faire ce qui est dit :
 
->1) insérer la ligne qui dit ** Plug ‘blablabla’ **  dans le fichier [ .vimrc ]
->2) enregistrer avec ** :w **
+>1) insérer la ligne qui dit **Plug ‘blablabla’**  dans le fichier [ .vimrc ]
+>2) enregistrer avec **:w**
 >3) forcer la lecture du fichier de configuration avec :source %4) installer avec :PlugInstall
 
 
 AU BESOIN :  
-Pour mettre à jour les plugins .......** :PlugUpdate **  
-Pour supprimer les plugins .......... ** :PlugClean **
-Voir le status des plugins ............. ** :PlugStatus **
+Pour mettre à jour les plugins .......**:PlugUpdate**  
+Pour supprimer les plugins .......... **:PlugClean**
+Voir le status des plugins ............. **:PlugStatus**
 
 
 
