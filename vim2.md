@@ -34,11 +34,11 @@
 
 
 
-| test | test | test |
-|------+------+------|
-| test | test | test |
-| test | test | test |
-
+| test             | test | test |
+|------------------+------+------|
+| test             | test | test |
+| test             | test | test |
+| un test plusieur |      |      |
 
 
 
@@ -67,7 +67,12 @@ Installer GIT:
 Installer CURL:
 > $ sudo apt install curl
 
+Dans un terminal saisir :  
 
+>curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+>https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+Créer, si pas fait, le fichier [ ~/.vimrc ] ....... $ vim .vimrc
 
 
 
