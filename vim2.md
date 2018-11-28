@@ -40,9 +40,9 @@
 | test | test | test |
 
 
-##   VIM-PLUG
-Liens :
-[vimawesome](https://vimawesome.com)
+##   VIM-PLUG   
+Liens :  
+[vimawesome](https://vimawesome.com)  
 [github_vim-plug](https://github.com/junegunn/vim-plug)
 
 
