@@ -1,12 +1,12 @@
 ***********************************
-#	  aide pour vim		  *
+#	  aide pour vim		         #
 ***********************************
 
-#Quelques commandes:
+#   Quelques commandes:            #
 
 
-|       commande                  |     Description                                                         |  
-|-------------------------------- | ----------------------------------------------------------------------: |   
+| Commandes | Description |
+|--------- | ---------- |
 |  a                              |  Basculer en mode insertion                                             |       
 |  A [shift+a]                    |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
 |  i                              |  Basculer en mode Insertion                                             |       
@@ -18,15 +18,15 @@
 |          o                      |Ajouter ligne après le curseur et se placer au début de cette nouvelle ligne |
 |    O [shift+o]                  |Ajouter ligne avant le curseur et se placer en mode insertion au début de cette nouvelle ligne |
 |        J [shift+j] 	          |   Joint la ligne suivante à la fin de la ligne courante                 |
-|       C [shift+c]               |Basculer en mode remplacement (au lieu d’insertion) pour la ligne courante jusqu’à appui de la touche Esc |
+|       C [shift+c]               |Basculer en mode remplacement (au lieu d’insertion) pour la ligne courante jusqu’à    appui de la touche Esc |
 |        cc                       |Supprime le texte de la ligne courante et positionne le curseur au début de cette ligne |
 |         s                       |	Substitue le caractère et bascule en mode insertion                 |
 |      S [shift+s]                |	Substitue la ligne et bascule en mode insertion                     |
-d 	Supprimer
-dd 	Supprime la ligne entière
-D [shift+d] 	Supprime jusqu’à la fin de la ligne
-x 	Couper (supprimer) le caractère qui se trouve sous le curseur
-X [shift+x] 	Couper (supprimer) le caractère qui se trouve avant le curseur
+|    d 	                          |     Supprimer      |
+|      dd 	                  |     Supprime la ligne entière    |
+|          D [shift+d]            |	Supprime jusqu’à la fin de la ligne    |
+|    x         |       	Couper (supprimer) le caractère qui se trouve sous le curseur   |
+|     X [shift+x]   |	Couper (supprimer) le caractère qui se trouve avant le curseur   |
 gu 	Mettre le caractère sous le curseur en minuscule
 guw 	Mettre le mot à partir du curseur en minuscule
 gub 	Mettre le mot avant le curseur en minuscule
