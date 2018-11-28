@@ -26,6 +26,11 @@
 | yy       | Copie une ligne                                  |                 |
 | yw       | Copie un mot                                     |                 |
 | p        | Coller                                           |                 |
+| :w       | Sauvegarder                                      |                 |
+| :q       | Quitter                                          |                 |
+| :q!      | Quitter sans enregistrer                         |                 |
+| :wp      | Quitter et enregistrer                           |                 |
+| ~        | Inverse la casse de la lettre sous le curseur    |                 |
 
 
 
