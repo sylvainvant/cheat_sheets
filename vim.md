@@ -6,7 +6,7 @@
 
 
 |       commande                  |     Description                                                         |  
-| ------------------------------- |: ---------------------------------------------------------------------: |   
+| ------------------------------- | ----------------------------------------------------------------------: |   
 |  a                              |  Basculer en mode insertion                                             |       
 |  A [shift+a]                    |  Basculer en mode Insertion et ajouter en fin de ligne                  |    
 |  i                              |  Basculer en mode Insertion                                             |       
