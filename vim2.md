@@ -98,12 +98,21 @@ Chercher un plugin et faire ce qui est dit :
 >3) forcer la lecture du fichier de configuration avec :source %4) installer avec :PlugInstall
 
 
-AU BESOIN :  
+##### AU BESOIN :  
 Pour mettre à jour les plugins .......**:PlugUpdate**  
 Pour supprimer les plugins .......... **:PlugClean**
 Voir le status des plugins ............. **:PlugStatus**
 
-
+###### Mais encore...
+Ce qui est sympa avec Vim-plug est que l’on peut mettre des conditions dans les plugins  
+Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+ici vim-snippets dépends de ultisnips
+On charge paresseusement les plugins
+Plug 'StanAngeloff/php.vim', { 'for': 'php' }
+Je n’ai besoin du plugin php-vim que si j’utilise un fichier PHP.
+Plug 'scrooloose/nerdtree', { 'on':
+Je charge le plugin que si je l’appelle.
+'NERDTreeToggle' }
 
 
 
